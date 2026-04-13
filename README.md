@@ -145,3 +145,7 @@ Set `VITE_API_URL=http://localhost:8080` in `frontend/.env` for local dev.
 ├── docker-compose.yml
 └── README.md
 ```
+
+
+
+![Image](https://github.com/user-attachments/assets/e71fec2d-10d6-4ad5-a39c-4fd7f3bfb1eb)
